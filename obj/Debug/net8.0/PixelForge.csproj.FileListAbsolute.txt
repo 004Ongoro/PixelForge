@@ -1,0 +1,12 @@
+C:\Users\george\Desktop\Development\DotNET\PixelForge\bin\Debug\net8.0\PixelForge.deps.json
+C:\Users\george\Desktop\Development\DotNET\PixelForge\bin\Debug\net8.0\PixelForge.dll
+C:\Users\george\Desktop\Development\DotNET\PixelForge\bin\Debug\net8.0\PixelForge.pdb
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.csproj.AssemblyReference.cache
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.AssemblyInfoInputs.cache
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.AssemblyInfo.cs
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.dll
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\refint\PixelForge.dll
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\PixelForge.pdb
+C:\Users\george\Desktop\Development\DotNET\PixelForge\obj\Debug\net8.0\ref\PixelForge.dll

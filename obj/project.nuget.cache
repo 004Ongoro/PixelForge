@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SPighLgQj8o=",
+  "dgSpecHash": "6PJJqIQHVS0=",
   "success": true,
   "projectFilePath": "C:\\Users\\george\\Desktop\\Development\\DotNET\\PixelForge\\PixelForge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\george\\.nuget\\packages\\magick.net-q8-anycpu\\14.0.0\\magick.net-q8-anycpu.14.0.0.nupkg.sha512",
     "C:\\Users\\george\\.nuget\\packages\\magick.net.core\\14.0.0\\magick.net.core.14.0.0.nupkg.sha512",
+    "C:\\Users\\george\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\george\\.nuget\\packages\\opencvsharp4\\4.10.0.20240616\\opencvsharp4.4.10.0.20240616.nupkg.sha512",
     "C:\\Users\\george\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\george\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512",
     "C:\\Users\\george\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\george\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
